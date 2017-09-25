@@ -1,0 +1,15 @@
+body.modal-open .colorpicker  {
+    z-index: 1200 !important;
+}
+
+body.modal-open .colorpicker_rgba {
+    z-index: 1200 !important;
+}
+
+body.modal-open .timepicker {
+    z-index: 1200 !important;
+}
+
+body.modal-open .datepicker {
+    z-index: 1200 !important;
+}
